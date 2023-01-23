@@ -136,7 +136,7 @@ func TestAccResourceRelease_multiple_releases(t *testing.T) {
 				name        = %q
 				namespace   = %q
 				repository  = %q
-				chart       = "test-chart"
+				chart       = "umbrella-chart"
 
 				set {
 					name = %q
